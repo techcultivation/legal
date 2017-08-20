@@ -1,9 +1,9 @@
 # CCT Bylaws 
 
-## Generate PDF 
+## Generate PDFs 
 
 ```
-pandoc satzung.md -o satzung.pdf --latex-engine=xelatex
+make
 ```
 
 # License
